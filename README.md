@@ -5,6 +5,7 @@ this tool is made to bruteforce using aircrack automatically. simply entering th
 
 [![poc](https://raw.githubusercontent.com/sterben404/airuto/main/poc.gif)
 
+
 # Requirements
 - OS Linux ( not support windows )
 - Python3
