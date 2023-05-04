@@ -3,7 +3,7 @@
   
 this tool is made to bruteforce using aircrack automatically. simply entering the SSID this tool will do WiFi monitoring, capturing, and cracking.
 
-**Requirements**
+#Requirements
 - OS Linux ( not support windows )
 - Python3
 
@@ -34,4 +34,4 @@ this tool is made to bruteforce using aircrack automatically. simply entering th
 
 > wait EAPOL data captured and after that close window monitoring manually
 
-**Happy Hacking**
+**Happy Hacking ^_^**
