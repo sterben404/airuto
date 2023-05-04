@@ -8,7 +8,7 @@ this tool is made to bruteforce using aircrack automatically. simply entering th
 - Python3
 
 # Installation
-- Python 3
+- Python3
 
    ` sudo apt-get install python3`
    
