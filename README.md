@@ -3,7 +3,7 @@
   
 this tool is made to bruteforce using aircrack automatically. simply entering the SSID this tool will do WiFi monitoring, capturing, and cracking.
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://raw.githubusercontent.com/sterben404/airuto/main/poc.gif))
 
 # Requirements
 - OS Linux ( not support windows )
