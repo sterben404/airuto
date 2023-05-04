@@ -1,4 +1,4 @@
-# Airuto
+# AIRUTO
 **Aircrack Brute Force Automator**
   
 this tool is made to bruteforce using aircrack automatically. simply entering the SSID this tool will do WiFi monitoring, capturing, and cracking.
@@ -7,7 +7,7 @@ this tool is made to bruteforce using aircrack automatically. simply entering th
 
 
 # Requirements
-- OS Linux ( not support windows )
+- OS Linux ( not support for windows )
 - Python3
 
 # Installation
@@ -21,14 +21,14 @@ this tool is made to bruteforce using aircrack automatically. simply entering th
 	
 	Install Requirements
 
-	`pip3 install -r requirements.txt`
+	`sudo pip3 install -r requirements.txt`
 - Aircrack-ng
 
    `sudo  apt-get install  -y aircrack-ng`
 # Usage
 1. Run program using python
 
-	`python3 airuto.py`
+	`sudo python3 airuto.py`
 2. Choose Wifi Adapter
 3. Enter target SSID
 4. Enter time for automatic scanning SSID
